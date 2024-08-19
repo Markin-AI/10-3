@@ -29,7 +29,7 @@
 
 [Crontab](https://github.com/Markin-AI/10-3/blob/main/files/root)
 
-[rsycn_daily](https://github.com/Markin-AI/10-3/blob/main/files/rsync_daily.sh)
+[rsync_daily](https://github.com/Markin-AI/10-3/blob/main/files/rsync_daily.sh)
 
 
 ---
