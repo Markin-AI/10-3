@@ -27,6 +27,6 @@
 
 ![Задание 2](https://github.com/Markin-AI/10-3/blob/main/img/2-1.png)
 
-[Crontab]((https://github.com/Markin-AI/10-3/blob/main/files/root))
+[Crontab](https://github.com/Markin-AI/10-3/blob/main/files/root)
 
 ---
